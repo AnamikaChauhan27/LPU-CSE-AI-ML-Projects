@@ -17,7 +17,7 @@ I am actively focusing on transitioning theoretical knowledge into functional co
 | Category | Technologies / Focus Areas |
 | :--- | :--- |
 | **Primary Language** | Python (Fundamentals, Basic Data Structures) |
-| **Web Development** | HTML5, CSS3, JavaScript (DOM Manipulation) |
+| **Web Development** | HTML, JavaScript (DOM Manipulation) |
 | **Tools & Software** | AutoCAD, Git/GitHub, Visual Studio Code (VS Code) |
 | **Core Concepts** | Introduction to AI/ML Principles, Object-Oriented Programming (OOP) |
 
@@ -44,8 +44,9 @@ The projects are organized into folders based on the technology used:
 
 I am eager to network with professionals and peers in the fields of Artificial Intelligence, Machine Learning, and Software Development.
 
-* **LinkedIn:** [Link to your LinkedIn Profile]
-* **Email:** [Your Professional/LPU Email Address]
+* **LinkedIn:** [www.linkedin.com/in/anamika-chauhan-707b3b385]
+* **Email:** [anamika.chauhan2025@lpu
+in]
 
 ---
 
